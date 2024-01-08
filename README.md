@@ -18,9 +18,9 @@ Nimbus nest is a weather forecasting app made by using Open weather Api.
 1. Clone the repository:
 
    ```bash
-   git
-Navigate to the project folder:
+   git clone https://github.com/Tanay610/nimbus_nest.git
 
+Navigate to the project folder:
 
 cd nimbus_nest
 
